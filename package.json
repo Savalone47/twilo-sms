@@ -1,15 +1,20 @@
 {
-  "name": "Twillo",
+  "name": "Twilo-msg",
   "version": "1.0.0",
-  "description": "",
+  "description": "send message with twillo and make more!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon twilo"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "twilo",
+    "express"
+  ],
+  "author": "savalone47",
   "license": "ISC",
+  "repository": "{https://github.com/savalone47/twilo.git}",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^1.19.3",
