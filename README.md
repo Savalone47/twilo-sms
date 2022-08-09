@@ -1,4 +1,4 @@
-# twilo-sms
+# twilo-sms-javascript
 
 Twilio is an American company specializing in <br>
 unified communications via a cloud platform.[Twilo.com](https://www.twilio.com/)
